@@ -5,7 +5,7 @@
 **💻 Web Developer** 
 
 > 💡 오늘보다 더 나은 내일을 위해 달려가는 개발자
-###  [📄 포트폴리오 보기](https://github.com/gaengmin/gaengmin/main/portfolio.pdf)
+###  [📄 포트폴리오 보기](https://github.com/gaengmin/gaengmin/blob/main/portfolio.pdf)
 
 
 ## 📈 Statistics
