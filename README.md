@@ -1,3 +1,13 @@
+# Welcome to Gaengmin's Gitgub Pages
+
+## My Profile
+### Name : 김경민
+**💻 Web Developer** 
+
+> 💡 오늘보다 더 나은 내일을 위해 달려가는 개발자
+>
+
+
 ## 📈 Statistics
 <div align="Left">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gaengmin&show_icons=true&theme=holi" width="49%" height="300px"/>
