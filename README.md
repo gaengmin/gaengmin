@@ -1,9 +1,11 @@
 # Welcome to Gaengmin's Gitgub Pages
 
+
 ### My Profile
 #### Name : 김경민
-**💻Web Developer** 
-> 💡 오늘보다 더 나은 내일을 위해 달려가는 개발자
+**💻 Web Developer**  
+ 💡 오늘보다 더 나은 내일을 위해 달려가는 개발자
+
 
 ### 📓 My Developer Story
 <p align="center">
