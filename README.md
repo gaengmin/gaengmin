@@ -7,6 +7,9 @@
 > 💡 오늘보다 더 나은 내일을 위해 달려가는 개발자
 ###  [📄 포트폴리오 보기](https://github.com/gaengmin/gaengmin/blob/main/portfolio.pdf)
 
+## Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaengmin)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 📈 Statistics
 <div align="Left">
