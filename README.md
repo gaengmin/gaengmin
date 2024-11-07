@@ -13,6 +13,9 @@
   <a href="https://github.com/gaengmin/gaengmin/blob/main/portfolio.pdf">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Portfolio Badge">
   </a>
+ <a href="https://velog.io/@gaengmin/posts">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" alt="Velog Badge">
+</a>
 </p>
 
 
