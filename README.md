@@ -2,7 +2,7 @@
 ### My Profile
 #### Name : 김경민
 **💻 Web Developer**
- 💡 오늘보다 더 나은 내일을 위해 달려가는 개발자
+ 💡 안녕하세요, 책임감을 바탕으로 문제를 해결하며 끊임없이 성장하는 개발자 김경민입니다.
 
 <a href="https://github.com/devxb/gitanimals">
   <img
