@@ -1,4 +1,5 @@
-# Welcome to Gaengmin's Gitgub Pages <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F%2508gaengmin%2Fhit-counter&count_bg=%23EBEF51&title_bg=%23F52C2C&icon=github.svg&icon_color=%23FFFFDE&title=hits&edge_flat=false"/></a>
+# Welcome to Gaengmin's Gitgub Pages 
+<!--<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F%2508gaengmin%2Fhit-counter&count_bg=%23EBEF51&title_bg=%23F52C2C&icon=github.svg&icon_color=%23FFFFDE&title=hits&edge_flat=false"/></a> -->
 ### My Profile
 #### Name : 김경민
 **💻 Web Developer**
