@@ -28,12 +28,12 @@
   <a href="https://velog.io/@gaengmin/posts">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" alt="Velog Badge">
 </a>
-  <a href="https://gaengmin.notion.site/KyeongMin-Kim-bfcc7cf72ccc4e8cb02e099b77c8a107">
+<!--   <a href="https://gaengmin.notion.site/KyeongMin-Kim-bfcc7cf72ccc4e8cb02e099b77c8a107">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge">
-  </a>
-  <a href="https://github.com/gaengmin/gaengmin/blob/main/portfolio.pdf">
+  </a> -->
+<!--   <a href="https://github.com/gaengmin/gaengmin/blob/main/portfolio.pdf">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Portfolio Badge">
-  </a>
+  </a> -->
 
 </p>
 
