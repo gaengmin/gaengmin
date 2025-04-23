@@ -1,10 +1,7 @@
-# Welcome to Gaengmin's Gitgub Pages 
+# Welcome to Gaeng's Gitgub Pages 
 <!--<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F%2508gaengmin%2Fhit-counter&count_bg=%23EBEF51&title_bg=%23F52C2C&icon=github.svg&icon_color=%23FFFFDE&title=hits&edge_flat=false"/></a> -->
 ### My Profile
-#### Name : 김경민
 **💻 Web Developer**
- 💡 책임감을 바탕으로 문제를 해결하며 끊임없이 성장하는 개발자 김경민입니다.
-
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/gaengmin?pet-id=645252460205567446"
